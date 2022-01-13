@@ -11,6 +11,11 @@ h1 {
 
 }
 
+#animal {  /* The animation container */
+  position: relative;
+  width: 20%;
+}
+
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
